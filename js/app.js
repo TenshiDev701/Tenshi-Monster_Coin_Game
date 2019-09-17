@@ -220,3 +220,5 @@ document.on('keydown',(event) => game.turnFurry(event));
 // document.addEventListener('keydown', function(event){
 //     game.turnFurry(event);
 // });
+
+// [ai:2026-07-29] // TODO: add error handling for API fetch calls
