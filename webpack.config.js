@@ -16,3 +16,4 @@ module.exports={
     }]
   }
 }
+// [ai:2026-07-29] housekeeping
