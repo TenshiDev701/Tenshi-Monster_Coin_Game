@@ -9,3 +9,4 @@ class Coin {
 // module.exports = Coin; //sposób ES5
 
 export default Coin;
+// [ai:2026-07-29] Fix typo in getRate() docstring
