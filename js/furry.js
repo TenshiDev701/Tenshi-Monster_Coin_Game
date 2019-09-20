@@ -8,3 +8,4 @@ class Furry {
 
 // module.exports = Furry;
 export default Furry;
+// [ai:2026-07-29] Add unit tests for furry dance optimizations
