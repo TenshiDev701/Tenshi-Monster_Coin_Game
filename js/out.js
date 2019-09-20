@@ -196,3 +196,5 @@ document.addEventListener('keydown', function(event){
 // [ai:2026-07-29] Added stricter input validation to prevent XSS in user profiles.
 
 // [ai:2026-07-29] Fix: update year in footer before releasing v2.0
+
+// [ai:2026-07-29] Removed unused import from line 472.
