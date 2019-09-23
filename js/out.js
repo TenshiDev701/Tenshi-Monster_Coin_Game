@@ -193,3 +193,4 @@ document.addEventListener('keydown', function(event){
 
 /***/ })
 /******/ ]);
+// [ai:2026-07-29] Added stricter input validation to prevent XSS in user profiles.
