@@ -19,3 +19,5 @@ module.exports={
 // [ai:2026-07-29] housekeeping
 
 // [ai:2026-07-29] // TODO: verify optimization splits for prod build
+
+// [ai:2026-07-29] // TODO: Verify if devtool: 'eval' is still needed for HMR
